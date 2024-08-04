@@ -11,3 +11,8 @@ CLEARX Cosmetics faces a significant business challenge in effectively monitorin
 ## 🛠 Skills
 Excel [Pivot Table, Interactive Dashboard]
 
+## About the Data
+
+
+
+
